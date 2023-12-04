@@ -21,3 +21,15 @@ You can get free Neo4j database in the Cloud using Neo4j AuraDB[](https://neo4j.
 * Update **cypher/import_data.cyp** script to point to the CSV files
 * Run **cypher/import_data.cyp** in Neo4j AuraDB console
 * Update database connection settings in **db_config.env** file
+
+## References
+
+* https://commons.wikimedia.org/wiki/London_Underground_geographic_maps
+* https://networkrepository.com/
+* https://networkx.org/
+* https://pyvis.readthedocs.io/en/latest/
+* https://graphviz.org/
+* https://graphviz.readthedocs.io/en/stable/
+* https://neo4j.com/
+* https://neo4j.com/docs/api/python-driver/current/
+
