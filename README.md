@@ -1,6 +1,6 @@
-# pycon.id-2023
+# Connected. Solving Real-Life Problem using Graph Databases
 
-London Tube Graph. Scripts from my talk at [Python.ID 2023](https://pycon.id/)
+Scripts from my talk at [Python Indonesia 2023](https://pycon.id/)
 
 ## Installation
 
